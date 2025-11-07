@@ -1,1 +1,1 @@
-[![Kempeter's GitHub stats](https://kempeter-git-main-kempeters-projects.vercel.app/api?username=kempeter&show_icons=true&theme=tokyonight&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
+![Kempeter's GitHub stats](./kempeter-stats.png)
