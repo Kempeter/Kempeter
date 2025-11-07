@@ -1,1 +1,1 @@
-![Kempeter's GitHub stats](./kempeter-stats.png)
+![Kempeter's GitHub stats](./kempeter_stats.svg)
